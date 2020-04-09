@@ -1680,25 +1680,33 @@ P.S., if you want to help this bot, please, donate through the [GitHub Sponsors 
       "Great! Shieldy is disabled now. Don't forget to turn this mode off with /noAttack.",
     ru:
       'Отлично! Теперь Щилди отключен. Не забудьте включить его назад командой /noAttack.',
+    uk:
+      'Відмінно! Тепер Shieldy відключений. Не забудьте включити його назад командою /noAttack.',
   },
   noAttack_false: {
     en: 'Great! Shieldy is now on.',
     ru: 'Отлично! Щилди включен.',
+    uk: 'Відмінно! Shieldy  включений.',
   },
   noChannelLinks_true: {
     en:
       'Great! Shieldy will now delete messages that link to telegram channels.',
     ru:
       'Отлично! Щилди теперь будет удалять сообщения с ссылками на Телеграм-каналы.',
+    uk:
+      'Відмінно! Shieldy тепер буде видаляти повідомлення з посиланнями на телеграм-канали.',
   },
   noChannelLinks_false: {
     en:
       'Great! Shieldy will not delete messages that link to telegram channels.',
     ru:
       'Отлично! Щилди теперь не будет удалять сообщения с ссылками на Телеграм-каналы.',
+    uk:
+      'Відмінно! Shieldy тепер не буде видаляти повідомлення з посиланнями на телеграм-канали.',
   },
   viewConfig: {
     en: 'Current config:',
     ru: 'Текущие настройки:',
+    uk: 'Поточні параметри:',
   },
 }
